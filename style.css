@@ -1,0 +1,33 @@
+.converter {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  h1 {
+    font-size: 70px;
+  }
+  
+  label {
+    font-size: 28px;
+  }
+  
+  input {
+    margin: 40px;
+    width: 200px;
+    font-size: 26px;
+  }
+  
+  select {
+    margin: 40px;
+    font-size: 26px;
+  }
+  
+  button {
+    font-size: 26px;
+    margin: 15px;
+  }
+  
+  p {
+    font-size: 20px;
+    font-weight: bold;
+  }
